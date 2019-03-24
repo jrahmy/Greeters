@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Service\\User\\EmailConfirmation",
+    "to_class": "Jrahmy\\Greeters\\XF\\Service\\User\\EmailConfirmation",
+    "execute_order": 10,
+    "active": true
+}

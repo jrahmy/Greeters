@@ -1,0 +1,1 @@
+Only users active within this period will be alerted. Use 0 to disable.

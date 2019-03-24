@@ -1,0 +1,1 @@
+A maximum of this many users will be notified. Use 0 to disable.

@@ -1,0 +1,2 @@
+{{ phrase('j_greeters_x_has_joined', {'username': $user.username ?: $alert.username}) }}
+<push:url>{{ link('canonical:members', $user) }}</push:url>

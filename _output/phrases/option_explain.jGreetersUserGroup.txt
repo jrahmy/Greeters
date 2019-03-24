@@ -1,0 +1,1 @@
+Users in this user group will be notified when a new user joins.
