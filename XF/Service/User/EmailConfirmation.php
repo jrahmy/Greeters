@@ -33,7 +33,7 @@ class EmailConfirmation extends XFCP_EmailConfirmation
                 /** @var \Jrahmy\Greeters\Service\User\Notifier $notifier */
                 $notifier = $this->service(
                     'Jrahmy\Greeters:User\Notifier',
-                    $user
+                    $this->user
                 );
                 $notifier->setNotifyJoined($greeters);
                 $notifier->notify();
